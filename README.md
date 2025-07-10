@@ -27,9 +27,8 @@ The app includes two main screens:
 
 ## 📸 Screenshots
 
-> *(Add screenshots or a demo video link here)*  
-> Example:  
-> ![MyProfileApp Screenshot](## 📸 Screenshots
+
+>## 📸 Screenshots
 
 <p align="center">
   <img src="Screenshots/screen1.png" width="150"/>
